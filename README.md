@@ -1,8 +1,10 @@
-- 👋  Hi, I’m Gabriela (aka @Gibbs8a)!
+👋  Hi, I’m Gabriela (aka @Gibbs8a)!
 - I'm a bioinformatics researcher currently studying at Keck Graduate Institute and working on my capstone with Scripps Research Translational Institute. My research focuses on cancer prediction models, polygenic risk scores, and functional genomics. I integrate machine learning, statistical analysis, and data visualization to enhance predictive models for diverse populations
-- 🌱 Currently Learning:
+
+🌱 Currently Learning:
 - Python for data visualization and bioinformatics
 - Advanced statistical modeling for genetic data
+
 📫 How to Reach Me:
 LinkedIn: https://www.linkedin.com/in/gabriela-ochoa-79694711b/
 <!---
