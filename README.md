@@ -6,7 +6,7 @@
 - Advanced statistical modeling for genetic data
 
 📫 How to Reach Me:
-LinkedIn: https://www.linkedin.com/in/gabriela-ochoa-79694711b/
+LinkedIn: www.linkedin.com/in/gabriela-v-ochoa
 <!---
 Gibbs8a/Gibbs8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
